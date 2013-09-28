@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/Desktop/adt-bundle-windows-x86_64-20130219/sdk/platforms/android-17/android.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://developer.android.com/reference/"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kevin/Desktop/Development Libraries/Java/commons-lang3-3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/Desktop/Android Workspace/libgdx-0.9.8/beatblaster-android/libs/gdx-audio.jar" sourcepath="C:/Users/Kevin/Desktop/Android Workspace/libgdx-0.9.8/extensions/gdx-audio/sources/gdx-audio-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
